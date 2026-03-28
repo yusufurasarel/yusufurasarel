@@ -1,16 +1,78 @@
-## Hi there 👋
+![Typing](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Student;Digital+Forensics;Ethical+Hacker)
 
-<!--
-**yusufurasarel/yusufurasarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yusuf
 
-Here are some ideas to get you started:
+🎓 Cybersecurity & Digital Forensics Student  
+🛡️ Focused on Ethical Hacking, DFIR, and Threat Intelligence  
+💻 Learning by building real-world security tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I am a cybersecurity student passionate about digital forensics and offensive security.  
+I focus on understanding how attacks work and how to detect and prevent them.
+
+- 🔍 Currently learning penetration testing & DFIR  
+- 🧪 Building Python-based security tools  
+- 📊 Interested in log analysis & threat detection  
+- ⚡ Goal: Become a cybersecurity professional  
+
+---
+
+## 🚀 Projects
+
+- 🔐 **Security Analyzer**  
+  Regex-based tool to detect suspicious patterns  
+
+- 📊 **Log Analyzer**  
+  Parses and analyzes system logs  
+
+- 🧪 **Password Cracker (Educational)**  
+  Demonstrates brute-force techniques  
+
+---
+
+## ⚙️ Skills
+
+- 🐍 Python  
+- 🐧 Linux  
+- 🌐 Networking  
+- 🔍 Digital Forensics Basics  
+- 🛡️ Cybersecurity Fundamentals  
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yusufurasarel&show_icons=true&theme=dark)
+
+---
+
+## 🧰 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Linux](https://img.shields.io/badge/Linux-Terminal-black)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+
+---
+
+## 🧑‍💻 Currently Learning
+
+- Penetration Testing  
+- Network Security  
+- Digital Forensics Tools  
+- Threat Intelligence  
+
+---
+
+## 📫 Contact
+
+- Email: yc6078x@gre.ac.uk  
+- LinkedIn: https://www.linkedin.com/in/yusuf-uras-celikdemir-85260137/  
+
+---
+
+## ⚡ Fun Fact
+
+> "Security is not a product, it's a process."
