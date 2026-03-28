@@ -43,7 +43,7 @@ I focus on understanding how attacks work and how to detect and prevent them.
 
 ## 📈 GitHub Stats
 
-![Stats]https://github.com/yusufurasarel
+https://github.com/yusufurasarel
 
 ---
 
