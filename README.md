@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Student;Digital+Forensics;Ethical+Hacker)
+![Typing](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Yusuf;Cybersecurity+Student;Digital+Forensics;Ethical+Hacker)
 
 # 👋 Hi, I'm Yusuf
 
