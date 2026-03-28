@@ -1,4 +1,6 @@
-![Typing](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Yusuf;Cybersecurity+Student;Digital+Forensics;Ethical+Hacker)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Yusuf;Cybersecurity+Student;Digital+Forensics;Ethical+Hacker" />
+</p>
 
 🎓 Cybersecurity & Digital Forensics Student  
 🛡️ Focused on Ethical Hacking, DFIR, and Threat Intelligence  
