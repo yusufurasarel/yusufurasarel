@@ -66,7 +66,7 @@ I focus on understanding how attacks work and how to detect and prevent them.
 
 ## 📫 Contact
 
-- Email: yc6078x@gre.ac.uk  
+- Email: non
 - LinkedIn: https://www.linkedin.com/in/yusuf-uras-celikdemir-85260137/  
 
 ---
