@@ -43,7 +43,7 @@ I focus on understanding how attacks work and how to detect and prevent them.
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yusufurasarel&show_icons=true&theme=dark)
+![Stats]https://github.com/yusufurasarel
 
 ---
 
@@ -66,7 +66,7 @@ I focus on understanding how attacks work and how to detect and prevent them.
 
 ## 📫 Contact
 
-- Email: non
+- Email: yusufurascelikdemir@outlook.com
 - LinkedIn: https://www.linkedin.com/in/yusuf-uras-celikdemir-85260137/  
 
 ---
